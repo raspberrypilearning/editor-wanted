@@ -1,109 +1,44 @@
-## Styling headings
+<h2 class="c-project-heading--task">Image styling</h2>
 
 --- task ---
 
-Add another CSS style at the bottom of your file, this time for `h1` which is a heading:
+Underneath the CSS for `div`, add another CSS style that will apply to images.
 
---- code ---
+--- /task ---
+
+
+--- task ---
+
+Add this code to set the `width`, add a `border` and some `padding` around the image.
+
+--- /task ---
+
+<div class="c-project-code">
+---- code ---
 ---
 language: css
 line_numbers: true
 line_number_start: 9
-line_highlights: 14-16
+line_highlights: 12
 ---
 img {
 	width: 100px;
-  	border: 1px solid black;
-  	padding: 10px;
-}
-h1 {
-
+	border: 1px solid black;
+	padding: 10px;
 }
 --- /code ---
+</div>
 
---- /task ---
 
 --- task ---
 
-Add a style rule to change the font of the heading, then press **Run** to see the changes.
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 14
-line_highlights: 15
----
-h1 {
-	font-family: Impact;
-}
---- /code ---
+Press **Run** to see the image change.
 
 --- /task ---
 
---- task ---
-Now add another rule to change the size of the heading, then press **Run** to see the changes.
+<div class="c-project-output">
 
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 14
-line_highlights: 16
----
-h1 {
-	font-family: Impact;
-	font-size: 3em;
-}
---- /code ---
+![An image of a robot with a black border. There is a gap between the robot image and the border.](images/wanted-img-padding.png)
 
---- /task ---
+</div>
 
-
-Have you noticed that there's a big space between the `<h1>` heading and the other text?
-
-![A poster with the text 'Wanted' in a large font. There is a large gap between this text and other text below it.](images/wanted-margin.png)
-
-This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other things on the page.
-
---- task ---
-Add a style to make the margin of the heading smaller, then press **Run** to see the changes.
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 14
-line_highlights: 17
----
-h1 {
-	font-family: Impact;
-	font-size: 3em;
-	margin: 10px;
-}
---- /code ---
-
---- /task ---
-
-
---- task ---
-Finally,  add a style to underline the heading, then press **Run** to see the changes.
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 14
-line_highlights: 18
----
-h1 {
-	font-family: Impact;
-	font-size: 3em;
-	margin: 10px;
-	text-decoration: underline;
-}
---- /code ---
-
-![A large heading reading 'Wanted!' underlined in a large black font on a yellow background.](images/wanted-finished-header.png)
-
---- /task ---

@@ -1,100 +1,61 @@
-## Styling images
+<h2 class="c-project-heading--task">Style the poster</h2>
 
 --- task ---
-Underneath the CSS for `div`, add another CSS style that will apply to images.
 
+Add more code in the css to style the poster.
+
+--- /task ---
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can start typing in a new colour in the css and it will autocomplete with all colours available.
+
+</div>
+
+
+--- task ---
+
+Use the code below to change the design:
+
+- Change the size, type and colour of the `border` 
+- Curve the edge with `border-radius` 
+- Edit the size the `width` 
+- Choose a differnet `background` colour
+
+--- /task ---
+
+
+<div class="c-project-code">
 --- code ---
 ---
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 9-11
+line_highlights: 3
 ---
 div {
   text-align: center;
   overflow: hidden;
-  border: 2px solid black;
-  width: 300px;
-  background: yellow;
+  border: 4px dotted red;
   border-radius: 40px;
-}
-img {
-
-}
---- /code ---
-
---- /task ---
-
---- task ---
-
-Any CSS properties you add to this `img` style will apply to images.
-
-Add this code to set the width of the image:
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 9
-line_highlights: 10
----
-img {
-	width: 100px;
+  width: 400px;
+  background: yellow;
 }
 --- /code ---
---- /task ---
+</div>
 
 --- task ---
 
-Press **Run** and you'll see that the size of the image changes, so that its width is 100 pixels.
-
---- /task ---
-
---- task ---
-Add a border around the image:
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 9
-line_highlights: 11
----
-img {
-	width: 100px;
-	border: 1px solid black;
-}
---- /code ---
-
---- /task ---
-
-Have you noticed that there's not much space between the image and the border? The space between the image and its border is called **padding**.
-
-![An image of a robot with a black border. The border is touching the robot image.](images/wanted-img-border.png)
+Test: click **Run** button to see the design change.
 
 --- task ---
 
-Add some padding around the image:
+<div class="c-project-output">
 
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 9
-line_highlights: 12
----
-img {
-	width: 100px;
-	border: 1px solid black;
-	padding: 10px;
-}
---- /code ---
+![ADD](images/step3.png)
 
---- /task ---
+</div>
 
---- task ---
-Press **Run** to see the extra padding
 
-![An image of a robot with a black border. There is a gap between the robot image and the border.](images/wanted-img-padding.png)
-
---- /task ---

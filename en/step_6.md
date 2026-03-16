@@ -1,18 +1,47 @@
-## What can you do now?
+<h2 class="c-project-heading--task">Challenge</h2>
 
-If you are following the [HTML & CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Recipe](https://projects.raspberrypi.org/en/projects/recipe/) project. In this project, you will learn how to create a webpage for your favourite recipe.
+--- task ---
 
---- print-only --- 
+Change your HTML and CSS code so that your poster looks the way you want it. You could:
 
-![A website showing the recipe for banana milkshake and an image of bananas](images/recipe-final.webp)
+--- /task ---
 
---- /print-only ---
 
---- no-print ---
+--- task ---
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/recipe-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+Change the text on the poster by editing `index.html`
 
---- /no-print ---
+--- /task ---
 
-Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
+
+--- task ---
+
+Change the robot image in the `index.html` to a different image from the images tab.
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+  <div>
+    <h1>Wanted!</h1>
+    <h3>Have you seen this robot?</h3>
+    <img src="robot.png">
+    <p>Description: Height: 30cm, Colour: purple and orange, Arms: 4</p>
+    <p>If you have any information, please contact 6207 332 2310</p>
+  </div>
+--- /code ---
+</div>
+
+--- /task ---
+
+
+--- task ---
+
+Make a different poster for an event - it could be a play, a sporting event, or even a poster advertising your Code Club!
+
+--- /task ---
+

@@ -2,7 +2,7 @@
 hero_image: images/wanted.png
 theme: orange
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
@@ -16,15 +16,16 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2024-11-28
 steps:
-- title: What you will make
-- title: Styling your poster
+- title: Step 1
+- title: Step 2
   completion:
   - engaged
-- title: Styling images
-- title: Styling headings
+- title: Step 3
+- title: Step 5
+- title: Step 4
   completion:
   - internal
-- title: 'Challenge'
+- title: Step 6
   challenge: true
   completion:
   - external
