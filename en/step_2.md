@@ -42,7 +42,7 @@ div {
 
 Test: click **Run** button to see the text change.
 
---- task ---
+--- /task ---
 
 <div class="c-project-output">
 
