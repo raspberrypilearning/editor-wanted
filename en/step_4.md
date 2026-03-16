@@ -14,6 +14,7 @@ Add this code to set the `width`, add a `border` and some `padding` around the i
 --- /task ---
 
 <div class="c-project-code">
+
 ---- code ---
 ---
 language: css
@@ -36,6 +37,7 @@ img {
 	padding: 10px;
 }
 --- /code ---
+
 </div>
 
 
