@@ -15,7 +15,7 @@ Add this code to set the `width`, add a `border` and some `padding` around the i
 
 <div class="c-project-code">
 
----- code ---
+--- code ---
 ---
 language: css
 line_numbers: true
