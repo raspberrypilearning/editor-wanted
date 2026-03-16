@@ -22,6 +22,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 10-14
 ---
+
 div {
   text-align: center;
   overflow: hidden;
@@ -36,6 +37,7 @@ img {
 	border: 1px solid black;
 	padding: 10px;
 }
+
 --- /code ---
 
 </div>
