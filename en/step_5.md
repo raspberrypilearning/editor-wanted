@@ -42,7 +42,7 @@ h1 {
 
 Test: click **Run** button to see the heading changes.
 
---- task ---
+--- /task ---
 
 <div class="c-project-output">
 

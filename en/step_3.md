@@ -50,7 +50,7 @@ div {
 
 Test: click **Run** button to see the design change.
 
---- task ---
+--- /task ---
 
 <div class="c-project-output">
 
