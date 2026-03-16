@@ -17,7 +17,7 @@ Click on the file tab, and select **style.css**.
 
 --- task ---
 
-Find `text-align` property and change the word `center` to `left` or `right`.
+Find `text-align` property and change the word `left` to `center` or `right`.
 
 --- /task ---
 

@@ -10,7 +10,9 @@ Add more code in the css to style the poster.
 
 ### Tip
 
-You can start typing in a new colour in the css and it will autocomplete with all colours available.
+You can start typing in a new colour in the css and it will autocomplete with all relted colours.
+
+![ADD](images/colours.gif)
 
 </div>
 
@@ -33,7 +35,7 @@ Use the code below to change the design:
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 3
+line_highlights: 4-7
 ---
 div {
   text-align: center;

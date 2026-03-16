@@ -18,9 +18,18 @@ Add this code to set the `width`, add a `border` and some `padding` around the i
 ---
 language: css
 line_numbers: true
-line_number_start: 9
-line_highlights: 12
+line_number_start: 1
+line_highlights: 10-14
 ---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 4px dotted red;
+  border-radius: 40px;
+  width: 400px;
+  background: yellow;
+}
+
 img {
 	width: 100px;
 	border: 1px solid black;
