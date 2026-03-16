@@ -16,7 +16,7 @@ Change the text on the poster by editing `index.html`
 
 --- task ---
 
-Change the robot image in the `index.html` to a different image from the images tab.
+Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of an image you want to use.ß
 
 <div class="c-project-code">
 --- code ---
