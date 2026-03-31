@@ -1,13 +1,44 @@
-<h2 class="c-project-heading--task">What you will make</h2>
+<h2 class="c-project-heading--task">Using CSS</h2>
 
---- task ---
+### Step 1
 
-Learn how to make your own poster with HTML and CSS.
+Press the **Run** button to see what the starter page looks like.
 
---- /task ---
+### Step 2
+
+Click on the file tab, and select **style.css**. 
+
+![screenshot](images/style.png)
+
+### Step 3
+
+Find `text-align` property and change the word `left` to `center` or `right`.
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 300px;
+}
+--- /code ---
+</div>
+
+### Step 4
+
+Test: click **Run** button to see the text change.
 
 <div class="c-project-output">
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/wanted-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+
+![ADD](images/step2.png)
+
 </div>
 
 

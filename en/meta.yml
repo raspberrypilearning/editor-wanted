@@ -15,17 +15,16 @@ hardware: ''
 software: html-css-javascript
 version: 3.0.1
 last_tested: 2024-11-28
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
+- title: Using CSS
+- title: Style the poster
   completion:
   - engaged
-- title: Step 3
-- title: Step 5
-- title: Step 4
+- title: Image styling
+- title: Headings
   completion:
   - internal
-- title: Step 6
-  challenge: true
-  completion:
   - external
+- title: Challenge
+  challenge: true
