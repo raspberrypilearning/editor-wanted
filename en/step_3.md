@@ -1,42 +1,24 @@
-<h2 class="c-project-heading--task">Style the poster</h2>
+<h2 class="c-project-heading--task">Image styling</h2>
 
---- task ---
+### Step 1
 
-Add more code in the css to style the poster.
-
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You can start typing in a new colour in the css and it will autocomplete with all relted colours.
-
-![ADD](images/colours.gif)
-
-</div>
+Underneath the CSS for `div`, add another CSS style that will apply to images.
 
 
---- task ---
+### Step 2
 
-Use the code below to change the design:
-
-- Change the size, type and colour of the `border` 
-- Curve the edge with `border-radius` 
-- Edit the size the `width` 
-- Choose a differnet `background` colour
-
---- /task ---
-
+Add this code to set the `width`, add a `border` and some `padding` around the image.
 
 <div class="c-project-code">
+
 --- code ---
 ---
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 4-7
+line_highlights: 10-14
 ---
+
 div {
   text-align: center;
   overflow: hidden;
@@ -45,19 +27,24 @@ div {
   width: 400px;
   background: yellow;
 }
+
+img {
+	width: 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
 --- /code ---
+
 </div>
 
---- task ---
 
-Test: click **Run** button to see the design change.
+### Step 3
 
---- /task ---
+Press **Run** to see the image change.
 
 <div class="c-project-output">
 
-![ADD](images/step3.png)
+![An image of a robot with a black border. There is a gap between the robot image and the border.](images/wanted-img-padding.png)
 
 </div>
-
-

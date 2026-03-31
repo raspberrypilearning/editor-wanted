@@ -1,52 +1,38 @@
-<h2 class="c-project-heading--task">Headings</h2>
+<h2 class="c-project-heading--task">Challenge</h2>
 
---- task ---
+### Step 1
 
-Add another CSS style at the bottom of your file for `h1` which is a heading.
+Change your HTML and CSS code so that your poster looks the way you want it. You could:
 
---- /task ---
 
---- task ---
+### Step 2
 
-Add the code and experiment with your heading:
+Change the text on the poster by editing `index.html`
 
-- Try adding other `font-family` names such as `Georgia`, `Times New Roman`, `Courier New`.
-- Play with the `font-size` to get the look you want. 
-- You could have `wavy underline` or `dotted underline` instead of the `underline`.
 
---- /task ---
+### Step 3
+
+Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of an image you want to use.ß
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
+language: html
 line_numbers: true
-line_number_start: 10
-line_highlights: 16-21
+line_number_start: 1
+line_highlights: 2
 ---
-img {
-	width: 100px;
-  	border: 1px solid black;
-  	padding: 10px;
-}
-
-h1 {
-	font-family: Impact;
-	font-size: 3em;
-	margin: 10px;
-	text-decoration: underline;
-}
+  <div>
+    <h1>Wanted!</h1>
+    <h3>Have you seen this robot?</h3>
+    <img src="robot.png">
+    <p>Description: Height: 30cm, Colour: purple and orange, Arms: 4</p>
+    <p>If you have any information, please contact 6207 332 2310</p>
+  </div>
 --- /code ---
 </div>
 
---- task ---
 
-Test: click **Run** button to see the heading changes.
+### Step 4
 
---- /task ---
-
-<div class="c-project-output">
-
-![A large heading reading 'Wanted!' underlined in a large black font on a yellow background.](images/wanted-finished-header.png)
-
-</div>
+Make a different poster for an event - it could be a play, a sporting event, or even a poster advertising your Code Club!

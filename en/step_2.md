@@ -1,25 +1,29 @@
-<h2 class="c-project-heading--task">Using CSS</h2>
+<h2 class="c-project-heading--task">Style the poster</h2>
 
---- task ---
+### Step 1
 
-Press the **Run** button to see what the starter page looks like.
+Add more code in the css to style the poster.
 
---- /task ---
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can start typing in a new colour in the css and it will autocomplete with all relted colours.
+
+![ADD](images/colours.gif)
+
+</div>
 
 
---- task ---
+### Step 2
 
-Click on the file tab, and select **style.css**. 
+Use the code below to change the design:
 
-![screenshot](images/style.png)
+- Change the size, type and colour of the `border` 
+- Curve the edge with `border-radius` 
+- Edit the size the `width` 
+- Choose a differnet `background` colour
 
---- /task ---
-
---- task ---
-
-Find `text-align` property and change the word `left` to `center` or `right`.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -27,28 +31,26 @@ Find `text-align` property and change the word `left` to `center` or `right`.
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 2
+line_highlights: 4-7
 ---
 div {
   text-align: center;
   overflow: hidden;
-  border: 2px solid black;
-  width: 300px;
+  border: 4px dotted red;
+  border-radius: 40px;
+  width: 400px;
+  background: yellow;
 }
 --- /code ---
 </div>
 
---- task ---
+### Step 3
 
-Test: click **Run** button to see the text change.
-
---- /task ---
+Test: click **Run** button to see the design change.
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![ADD](images/step3.png)
 
 </div>
-
-
 
