@@ -1,21 +1,23 @@
 <h2 class="c-project-heading--task">Style the poster</h2>
 
-### Step 1
-
 Add more code in the css to style the poster.
 
-<div class="c-project-callout c-project-callout--tip">
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 ### Tip
 
+<div class="c-project-callout c-project-callout--tip">
+
 You can start typing in a new colour in the css and it will autocomplete with all relted colours.
 
+<div class="c-project-output">
 ![ADD](images/colours.gif)
-
+</div>
 </div>
 
-
-### Step 2
+## Step 2
 
 Use the code below to change the design:
 
@@ -44,13 +46,12 @@ div {
 --- /code ---
 </div>
 
-### Step 3
+## Now run your code
 
-Test: click **Run** button to see the design change.
+Click **Run** button to see the design change.
 
 <div class="c-project-output">
 
 ![ADD](images/step3.png)
 
 </div>
-

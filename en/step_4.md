@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Headings</h2>
 
-### Step 1
-
 Add another CSS style at the bottom of your file for `h1` which is a heading.
 
-### Step 2
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add the code and experiment with your heading:
 
@@ -35,9 +33,9 @@ h1 {
 --- /code ---
 </div>
 
-### Step 3
+## Now run your code
 
-Test: click **Run** button to see the heading changes.
+Click **Run** button to see the heading changes.
 
 <div class="c-project-output">
 

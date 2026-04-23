@@ -1,16 +1,18 @@
 <h2 class="c-project-heading--task">Using CSS</h2>
 
-### Step 1
-
 Press the **Run** button to see what the starter page looks like.
 
-### Step 2
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Click on the file tab, and select **style.css**. 
 
+<div class="c-project-output">
 ![screenshot](images/style.png)
+</div>
 
-### Step 3
+## Step 2
 
 Find `text-align` property and change the word `left` to `center` or `right`.
 
@@ -31,14 +33,12 @@ div {
 --- /code ---
 </div>
 
-### Step 4
+## Now run your code
 
-Test: click **Run** button to see the text change.
+Click **Run** button to see the text change.
 
 <div class="c-project-output">
 
 ![ADD](images/step2.png)
 
 </div>
-
-

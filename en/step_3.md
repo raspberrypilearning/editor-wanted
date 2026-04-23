@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Image styling</h2>
 
-### Step 1
-
 Underneath the CSS for `div`, add another CSS style that will apply to images.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Add this code to set the `width`, add a `border` and some `padding` around the image.
 
@@ -38,8 +37,7 @@ img {
 
 </div>
 
-
-### Step 3
+## Step 2
 
 Press **Run** to see the image change.
 
@@ -48,3 +46,7 @@ Press **Run** to see the image change.
 ![An image of a robot with a black border. There is a gap between the robot image and the border.](images/wanted-img-padding.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

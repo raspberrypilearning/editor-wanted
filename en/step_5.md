@@ -1,16 +1,18 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-### Step 1
+Change your HTML and CSS code so that your poster looks the way you want it.
 
-Change your HTML and CSS code so that your poster looks the way you want it. You could:
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
-### Step 2
+You could:
+
+## Step 2
 
 Change the text on the poster by editing `index.html`
 
-
-### Step 3
+## Step 3
 
 Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of an image you want to use.ß
 
@@ -32,7 +34,10 @@ line_highlights: 2
 --- /code ---
 </div>
 
-
-### Step 4
+## Step 4
 
 Make a different poster for an event - it could be a play, a sporting event, or even a poster advertising your Code Club!
+
+## Now run your code
+
+Confirm the observable result.
