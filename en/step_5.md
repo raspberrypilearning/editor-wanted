@@ -40,4 +40,4 @@ Make a different poster for an event - it could be a play, a sporting event, or 
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your finished poster shows the text and image you chose.

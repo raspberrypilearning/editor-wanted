@@ -49,4 +49,4 @@ Press **Run** to see the image change.
 
 ## Now run your code
 
-Confirm the observable result.
+Press **Run** and check that the image has a black border with some space around it.
