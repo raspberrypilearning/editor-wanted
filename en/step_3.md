@@ -2,8 +2,6 @@
 
 Underneath the CSS for `div`, add another CSS style that will apply to images.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add this code to set the `width`, add a `border` and some `padding` around the image.
