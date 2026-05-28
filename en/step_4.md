@@ -2,8 +2,6 @@
 
 Add another CSS style at the bottom of your file for `h1` which is a heading.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add the code and experiment with your heading:
 
 - Try adding other `font-family` names such as `Georgia`, `Times New Roman`, `Courier New`.
