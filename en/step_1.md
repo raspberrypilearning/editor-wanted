@@ -2,8 +2,6 @@
 
 Press the **Run** button to see what the starter page looks like.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click on the file tab, and select **style.css**. 
