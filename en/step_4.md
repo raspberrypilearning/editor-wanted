@@ -1,12 +1,12 @@
 <h2 class="c-project-heading--task">Headings</h2>
 
-Add another CSS style at the bottom of your file for `h1` which is a heading.
+Add another CSS style at the bottom of your file for `h1`, which is a heading.
 
 Add the code and experiment with your heading:
 
-- Try adding other `font-family` names such as `Georgia`, `Times New Roman`, `Courier New`.
-- Play with the `font-size` to get the look you want. 
-- You could have `wavy underline` or `dotted underline` instead of the `underline`.
+- Try adding other `font-family` names such as `Georgia`, `Times New Roman`, `Courier New`
+- Play with the `font-size` to get the look you want
+- You could have `wavy underline` or `dotted underline` instead of `underline`
 
 <div class="c-project-code">
 --- code ---
@@ -33,7 +33,7 @@ h1 {
 
 ## Now run your code
 
-Click **Run** button to see the heading changes.
+Click the **Run** button to see the heading changes.
 
 <div class="c-project-output">
 
