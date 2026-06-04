@@ -8,7 +8,7 @@ Add more code in the css to style the poster.
 
 <div class="c-project-callout c-project-callout--tip">
 
-You can start typing in a new colour in the css and it will autocomplete with all relted colours.
+You can start typing in a new colour in the css and it will autocomplete with all related colours.
 
 <div class="c-project-output">
 ![ADD](images/colours.gif)
@@ -19,9 +19,9 @@ You can start typing in a new colour in the css and it will autocomplete with al
 
 Use the code below to change the design:
 
-- Change the size, type and colour of the `border` 
+- Change the size, type, and colour of the `border` 
 - Curve the edge with `border-radius` 
-- Edit the size the `width` 
+- Edit the size of the `width` 
 - Choose a differnet `background` colour
 
 
@@ -46,7 +46,7 @@ div {
 
 ## Now run your code
 
-Click **Run** button to see the design change.
+Click the **Run** button to see your design changes.
 
 <div class="c-project-output">
 
