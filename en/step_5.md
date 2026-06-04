@@ -5,8 +5,8 @@ Change your HTML and CSS code so that your poster looks the way you want it.
 ## Step 1
 
 You could:
-- Change the text on the poster by editing `index.html`
-- Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of an image you want to use.ß
+- Change the text on the poster by editing `index.html`.
+- Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of the image you want to use.
 
 <div class="c-project-code">
 --- code ---
