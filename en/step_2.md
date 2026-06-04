@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Style the poster</h2>
 
-Add more code in the css to style the poster.
+Add more code in the CSS to style the poster.
 
 ## Step 1
 
@@ -8,7 +8,7 @@ Add more code in the css to style the poster.
 
 <div class="c-project-callout c-project-callout--tip">
 
-You can start typing in a new colour in the css and it will autocomplete with all related colours.
+You can start typing in a new colour in the CSS and it will autocomplete with all related colours.
 
 <div class="c-project-output">
 ![ADD](images/colours.gif)
