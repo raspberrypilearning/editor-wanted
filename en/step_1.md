@@ -12,7 +12,7 @@ Click on the file tab, and select **style.css**.
 
 ## Step 2
 
-Find `text-align` property and change the word `left` to `center` or `right`.
+Find the `text-align` property and change the word `left` to `center` or `right`.
 
 <div class="c-project-code">
 --- code ---

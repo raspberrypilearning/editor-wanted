@@ -4,7 +4,7 @@ Underneath the CSS for `div`, add another CSS style that will apply to images.
 
 ## Step 1
 
-Add this code to set the `width`, add a `border` and some `padding` around the image.
+Add this code to set the `width`, and add a `border` and some `padding` around the image.
 
 <div class="c-project-code">
 
