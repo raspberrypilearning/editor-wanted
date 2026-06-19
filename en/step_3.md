@@ -35,9 +35,9 @@ img {
 
 </div>
 
-## Step 2
+## Now run your code
 
-Press **Run** to see the image change.
+Press **Run** and check that the image has a black border with some space around it.
 
 <div class="c-project-output">
 
@@ -45,6 +45,4 @@ Press **Run** to see the image change.
 
 </div>
 
-## Now run your code
 
-Press **Run** and check that the image has a black border with some space around it.
