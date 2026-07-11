@@ -1,20 +1,10 @@
-<h2 class="c-project-heading--task">Image styling</h2>
+## Image styling
 
 Underneath the CSS for `div`, add another CSS style that will apply to images.
 
-## Step 1
-
 Add this code to set the `width`, and add a `border` and some `padding` around the image.
 
-<div class="c-project-code">
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 1
-line_highlights: 10-14
----
+```css line_numbers="true" line_number_start="1" line_highlights="10-14"
 
 div {
   text-align: center;
@@ -31,18 +21,12 @@ img {
 	padding: 10px;
 }
 
---- /code ---
-
-</div>
+```
 
 ## Now run your code
 
 Press **Run** and check that the image has a black border with some space around it.
 
-<div class="c-project-output">
-
 ![An image of a robot with a black border. There is a gap between the robot image and the border.](images/wanted-img-padding.png)
-
-</div>
 
 

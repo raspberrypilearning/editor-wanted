@@ -1,32 +1,25 @@
-<h2 class="c-project-heading--task">Challenge</h2>
+## Challenge
 
 Change your HTML and CSS code so that your poster looks the way you want it.
 
-## Step 1
-
-You could:
-- Change the text on the poster by editing `index.html`.
-- Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of the image you want to use.
-
-<div class="c-project-code">
---- code ---
----
-language: html
-line_numbers: true
-line_number_start: 1
-line_highlights: 2
----
-  <div>
-    <h1>Wanted!</h1>
-    <h3>Have you seen this robot?</h3>
-    <img src="robot.png">
-    <p>Description: Height: 30cm, Colour: purple and orange, Arms: 4</p>
-    <p>If you have any information, please contact 6207 332 2310</p>
-  </div>
---- /code ---
-</div>
-
-- Make a different poster for an event - it could be a play, a sporting event, or even a poster advertising your Code Club!
+> [!CHALLENGE]
+>
+> You could:
+>
+> - Change the text on the poster by editing `index.html`.
+> - Add a different image from the images tab. Replace the `robot.png` in the `index.html` with the name of the image you want to use.
+>
+> ```html line_numbers="true" line_number_start="1" line_highlights="2"
+>   <div>
+>     <h1>Wanted!</h1>
+>     <h3>Have you seen this robot?</h3>
+>     <img src="robot.png">
+>     <p>Description: Height: 30cm, Colour: purple and orange, Arms: 4</p>
+>     <p>If you have any information, please contact 6207 332 2310</p>
+>   </div>
+> ```
+>
+> - Make a different poster for an event - it could be a play, a sporting event, or even a poster advertising your Code Club!
 
 ## Now run your code
 
