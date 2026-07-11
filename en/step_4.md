@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Headings</h2>
+## Headings
 
 Add another CSS style at the bottom of your file for `h1`, which is a heading.
 
@@ -8,14 +8,7 @@ Add the code and experiment with your heading:
 - Play with the `font-size` to get the look you want
 - You could have `wavy underline` or `dotted underline` instead of `underline`
 
-<div class="c-project-code">
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 10
-line_highlights: 16-21
----
+```css line_numbers="true" line_number_start="10" line_highlights="16-21"
 img {
 	width: 100px;
   	border: 1px solid black;
@@ -28,15 +21,10 @@ h1 {
 	margin: 10px;
 	text-decoration: underline;
 }
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 Click the **Run** button to see the heading changes.
 
-<div class="c-project-output">
-
 ![A large heading reading 'Wanted!' underlined in a large black font on a yellow background.](images/wanted-finished-header.png)
-
-</div>

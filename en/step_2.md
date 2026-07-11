@@ -1,38 +1,21 @@
-<h2 class="c-project-heading--task">Style the poster</h2>
+## Style the poster
 
 Add more code in the CSS to style the poster.
 
-## Step 1
-
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-You can start typing in a new colour in the CSS and it will autocomplete with all related colours.
-
-<div class="c-project-output">
-![ADD](images/colours.gif)
-</div>
-</div>
-
-## Step 2
+> [!TIP]
+>
+> You can start typing in a new colour in the CSS and it will autocomplete with all related colours.
+>
+> ![The CSS editor showing colour suggestions autocompleting as a value is typed.](images/colours.gif)
 
 Use the code below to change the design:
 
-- Change the size, type, and colour of the `border` 
-- Curve the edge with `border-radius` 
-- Edit the size of the `width` 
-- Choose a differnet `background` colour
+- Change the size, type, and colour of the `border`
+- Curve the edge with `border-radius`
+- Edit the size of the `width`
+- Choose a different `background` colour
 
-
-<div class="c-project-code">
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 1
-line_highlights: 4-7
----
+```css line_numbers="true" line_number_start="1" line_highlights="4-7"
 div {
   text-align: center;
   overflow: hidden;
@@ -41,15 +24,10 @@ div {
   width: 400px;
   background: yellow;
 }
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 Click the **Run** button to see your design changes.
 
-<div class="c-project-output">
-
-![ADD](images/step3.png)
-
-</div>
+![The Wanted poster with a yellow background and a red dotted, rounded border.](images/step3.png)
