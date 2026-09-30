@@ -1,3 +1,4 @@
 name: 'Wanted Complete'
 identifier: 'wanted-complete'
 type: 'html'
+build: true
